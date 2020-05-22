@@ -1,0 +1,15 @@
+Note:
+
++ For new buyers: Using SmartPanel_installation.zip to get new installation or re-install.
+
++ For old buyers: Please go to https://smartpanelsmm.com/docs/smartstore.php for How to update
+
++ You should backup the current Version before updating to new version.
+
++ Clear Your Browser Cache after updating.
+
+If you have any questions. Please don't hesitate contact us via email: tuyennguyen2906@gmail.com for more details
+
+
+
+ 
